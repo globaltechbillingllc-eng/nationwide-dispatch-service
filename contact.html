@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contact | Nationwide Dispatch Services LLC</title>
+  <meta name="description" content="Get your truck dispatched. Call, email or send your details and a dispatcher will call you back within one business day.">
+  <meta name="theme-color" content="#0b5e3b">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Contact | Nationwide Dispatch Services LLC">
+  <meta property="og:description" content="Get your truck dispatched. Call, email or send your details and a dispatcher will call you back within one business day.">
+  <meta property="og:image" content="/og-image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Overpass:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <a class="brand" href="/" aria-label="Nationwide Dispatch Services LLC, home">
+        <img src="/brand/logo-reverse.svg" alt="Nationwide Dispatch Services LLC" width="220" height="48">
+      </a>
+      <button class="menu-btn" type="button" aria-expanded="false" aria-controls="site-nav">
+        <span class="menu-icon" aria-hidden="true"></span><span class="menu-label">Menu</span>
+      </button>
+      <nav id="site-nav" class="site-nav" aria-label="Main">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/services">Services</a></li>
+          <li><a href="/pricing">Pricing</a></li>
+          <li><a href="/about">About</a></li>
+          <li><a href="/contact" aria-current="page">Contact</a></li>
+        </ul>
+        <a class="btn btn-yellow nav-cta" href="/contact#signup">Get dispatched</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main">
+
+    <section class="page-hero">
+      <div class="wrap">
+        <h1>Contact us</h1>
+        <p class="lede">Call, email or send your details and a dispatcher will call you back within one business day.</p>
+      </div>
+      <div class="road" aria-hidden="true"></div>
+    </section>
+
+    <section class="section signup" id="signup">
+      <div class="wrap signup-grid">
+        <div>
+          <h2>Get your truck dispatched</h2>
+          <p class="section-lede">Tell us about your truck and what you're looking for.</p>
+          <ul class="contact">
+            <li><span>Phone</span><a href="tel:+10000000000" data-phone>(000) 000-0000</a></li>
+            <li><span>Email</span><a href="mailto:dispatch@example.com" data-email>dispatch@example.com</a></li>
+            <li><span>Hours</span>Monday to Saturday, 6 am to 8 pm Central</li>
+          </ul>
+          <h3 class="docs-h">Have these ready</h3>
+          <ul class="checks checks-light">
+            <li>MC and DOT numbers</li>
+            <li>Certificate of insurance</li>
+            <li>W-9</li>
+            <li>Truck and trailer details</li>
+          </ul>
+        </div>
+
+        <form class="form" id="signup-form" novalidate>
+          <div class="field"><label for="name">Your name</label><input id="name" name="name" autocomplete="name" required></div>
+          <div class="field"><label for="company">Company name</label><input id="company" name="company" autocomplete="organization"></div>
+          <div class="field-row">
+            <div class="field"><label for="mc">MC number</label><input id="mc" name="mc" inputmode="numeric"></div>
+            <div class="field"><label for="trucks">Number of trucks</label><input id="trucks" name="trucks" type="number" min="1" value="1"></div>
+          </div>
+          <div class="field">
+            <label for="equipment">Equipment</label>
+            <select id="equipment" name="equipment">
+              <option>Dry van</option>
+              <option>Reefer</option>
+              <option>Flatbed</option>
+              <option>Step deck</option>
+              <option>Power only</option>
+              <option>Hotshot</option>
+              <option>Box truck</option>
+            </select>
+          </div>
+          <div class="field-row">
+            <div class="field"><label for="phone">Phone</label><input id="phone" name="phone" type="tel" autocomplete="tel" required></div>
+            <div class="field"><label for="email">Email</label><input id="email" name="email" type="email" autocomplete="email"></div>
+          </div>
+          <div class="field"><label for="notes">Preferred lanes or notes</label><textarea id="notes" name="notes" rows="3"></textarea></div>
+          <button class="btn btn-yellow" type="submit">Request a callback</button>
+          <p class="form-msg" role="status" aria-live="polite"></p>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer-grid">
+      <div class="footer-brand">
+        <img src="/brand/logo-reverse.svg" alt="Nationwide Dispatch Services LLC" width="240" height="52">
+        <p>Truck dispatching for owner-operators and small fleets in all 48 states.</p>
+      </div>
+      <div>
+        <h2 class="footer-h">Company</h2>
+        <ul>
+          <li><a href="/services">Services</a></li>
+          <li><a href="/pricing">Pricing</a></li>
+          <li><a href="/about">About us</a></li>
+          <li><a href="/contact">Contact</a></li>
+        </ul>
+      </div>
+      <div>
+        <h2 class="footer-h">Contact</h2>
+        <ul>
+          <li><a href="tel:+10000000000" data-phone>(000) 000-0000</a></li>
+          <li><a href="mailto:dispatch@example.com" data-email>dispatch@example.com</a></li>
+          <li>Monday to Saturday<br>6 am to 8 pm Central</li>
+        </ul>
+      </div>
+    </div>
+    <div class="wrap footer-bottom">
+      <p>&copy; <span data-year>2026</span> Nationwide Dispatch Services LLC. All rights reserved.</p>
+    </div>
+  </footer>
+  <script src="/script.js"></script>
+</body>
+</html>

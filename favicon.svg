@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 44"><path d="M4 4h32c0 0 2 6 0 14-2 9-8 16-16 22C12 34 6 27 4 18 2 10 4 4 4 4z" fill="#1f4e9c" stroke="#fff" stroke-width="2.5"/><text x="20" y="27" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-weight="900" font-size="11">NDS</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img" aria-label="Nationwide Dispatch Services LLC">
+  <title>Nationwide Dispatch Services LLC</title>
+  <rect x="2.00" y="2.00" width="96.00" height="96.00" rx="18.00" fill="#0b5e3b"/>
+  <rect x="8.00" y="8.00" width="84.00" height="84.00" rx="12.00" fill="none" stroke="#ffffff" stroke-width="3.20"/>
+  <polygon points="22.00,30.00 36.00,30.00 36.00,78.00 22.00,78.00" fill="#ffffff"/>
+  <polygon points="22.00,30.00 37.00,30.00 78.00,78.00 63.00,78.00" fill="#ffffff"/>
+  <polygon points="64.00,78.00 64.00,36.00 56.00,36.00 71.00,18.00 86.00,36.00 78.00,36.00 78.00,78.00" fill="#ffffff"/>
+  <line x1="32.58" y1="33.60" x2="36.67" y2="38.40" stroke="#f5c518" stroke-width="3.40" stroke-linecap="round"/>
+  <line x1="42.83" y1="45.60" x2="46.92" y2="50.40" stroke="#f5c518" stroke-width="3.40" stroke-linecap="round"/>
+  <line x1="53.08" y1="57.60" x2="57.17" y2="62.40" stroke="#f5c518" stroke-width="3.40" stroke-linecap="round"/>
+  <line x1="63.32" y1="69.60" x2="67.43" y2="74.40" stroke="#f5c518" stroke-width="3.40" stroke-linecap="round"/>
+</svg>
