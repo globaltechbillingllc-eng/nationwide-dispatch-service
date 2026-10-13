@@ -1,14 +1,10 @@
-// Contact details used across every page and by the sign-up form.
-// Change these three values and every phone link, email link and the form update together.
+// Contact email used across every page and by the sign-up form.
 const CONTACT = {
-  phoneDisplay: "(000) 000-0000",
-  phoneTel: "+10000000000",
-  email: "dispatch@example.com",
+  email: "info@nationwidedispatchservice.com",
 };
 
-document.querySelectorAll("[data-phone]").forEach((a) => {
-  a.href = "tel:" + CONTACT.phoneTel;
-  a.textContent = a.textContent.replace(/\(000\) 000-0000/, CONTACT.phoneDisplay);
+document.querySelectorAll("[data-email-btn]").forEach((a) => {
+  a.href = "mailto:" + CONTACT.email;
 });
 document.querySelectorAll("[data-email]").forEach((a) => {
   a.href = "mailto:" + CONTACT.email;
@@ -72,6 +68,6 @@ if (form) {
       "&body=" + encodeURIComponent(body);
 
     msg.className = "form-msg ok";
-    msg.textContent = "Your email app should open with your details filled in. Send it and we'll call you back within one business day.";
+    msg.textContent = "Your email app should open with your details filled in. Send it and a dispatcher will get back to you within one business day.";
   });
 }

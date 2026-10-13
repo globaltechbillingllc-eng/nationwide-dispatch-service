@@ -28,8 +28,8 @@ Root also has `favicon.svg`, `favicon-32.png`, `apple-touch-icon.png` and `og-im
 
 ## Update before launch
 
-1. **Phone and email:** edit the `CONTACT` object at the top of `script.js`, and replace `(000) 000-0000`, `+10000000000` and `dispatch@example.com` in the HTML files so they show correctly even before JavaScript loads.
-2. **Dispatch fee:** `6%` is a placeholder on `index.html` and `pricing.html` (including the example table).
+1. **Email:** `info@nationwidedispatchservice.com` is set in the `CONTACT` object at the top of `script.js` and in the HTML files. The site has no phone number.
+2. **Dispatch fee:** 5%, shown on `index.html` and `pricing.html` (including the example table).
 3. **Hours:** in the footer of every page and on `contact.html`.
 
 ## Sign-up form
