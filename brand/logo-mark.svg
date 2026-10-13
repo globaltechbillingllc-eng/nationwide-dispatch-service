@@ -1,4 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img" aria-label="Nationwide Dispatch Services LLC">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Nationwide Dispatch Services LLC">
   <title>Nationwide Dispatch Services LLC</title>
-  <g transform="translate(0.00 0.00) scale(1.0000)"><rect x="2" y="2" width="96" height="96" rx="18" fill="#0b5e3b"/><rect x="8" y="8" width="84" height="84" rx="12" fill="none" stroke="#ffffff" stroke-width="3.2"/><rect x="13" y="29" width="47" height="30" rx="2.5" fill="#ffffff"/><path d="M62 61 V35 Q62 33 64 33 H73 Q75 33 76 35 L80.5 45 H84.5 Q87.5 45 87.5 48 V61 Z" fill="#ffffff"/><path d="M71.5 37 H74 L77.8 45 H71.5 Z" fill="#0b5e3b"/><rect x="64.6" y="26" width="2.4" height="8" rx="1.2" fill="#ffffff"/><rect x="13" y="59" width="74.5" height="3.2" fill="#ffffff"/><circle cx="21" cy="64.5" r="5.8" fill="#ffffff" stroke="#0b5e3b" stroke-width="2.2"/><circle cx="21" cy="64.5" r="1.9" fill="#0b5e3b"/><circle cx="32" cy="64.5" r="5.8" fill="#ffffff" stroke="#0b5e3b" stroke-width="2.2"/><circle cx="32" cy="64.5" r="1.9" fill="#0b5e3b"/><circle cx="67.5" cy="64.5" r="5.8" fill="#ffffff" stroke="#0b5e3b" stroke-width="2.2"/><circle cx="67.5" cy="64.5" r="1.9" fill="#0b5e3b"/><circle cx="82.5" cy="64.5" r="5.8" fill="#ffffff" stroke="#0b5e3b" stroke-width="2.2"/><circle cx="82.5" cy="64.5" r="1.9" fill="#0b5e3b"/><rect x="17" y="49" width="39" height="3.4" rx="1.7" fill="#f5c518"/><rect x="13" y="76.5" width="8" height="3.4" rx="1.7" fill="#f5c518"/><rect x="27" y="76.5" width="8" height="3.4" rx="1.7" fill="#f5c518"/><rect x="41" y="76.5" width="8" height="3.4" rx="1.7" fill="#f5c518"/><rect x="55" y="76.5" width="8" height="3.4" rx="1.7" fill="#f5c518"/><rect x="69" y="76.5" width="8" height="3.4" rx="1.7" fill="#f5c518"/><rect x="83" y="76.5" width="5" height="3.4" rx="1.7" fill="#f5c518"/></g>
+  <defs>
+    <linearGradient id="v-cab1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#d6e4ff"/></linearGradient>
+    <linearGradient id="v-glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9fe7ff"/><stop offset="1" stop-color="#10b3a3"/></linearGradient>
+    <linearGradient id="v-s1" x1="0" x2="1"><stop offset="0" stop-color="#ff7a1a" stop-opacity="0"/><stop offset=".5" stop-color="#ff7a1a"/><stop offset="1" stop-color="#ffbf1f"/></linearGradient>
+    <linearGradient id="v-s2" x1="0" x2="1"><stop offset="0" stop-color="#10b3a3" stop-opacity="0"/><stop offset=".5" stop-color="#10b3a3"/><stop offset="1" stop-color="#34dbb4"/></linearGradient>
+    <linearGradient id="v-s3" x1="0" x2="1"><stop offset="0" stop-color="#1663e6" stop-opacity="0"/><stop offset=".5" stop-color="#1663e6"/><stop offset="1" stop-color="#4b93ff"/></linearGradient>
+    
+    <linearGradient id="bg-n" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#16346b"/><stop offset="1" stop-color="#0c1f3f"/></linearGradient></defs>
+  <rect width="200" height="200" rx="44" fill="url(#bg-n)"/>
+  <g transform="translate(-1.2 61.8) scale(0.9174)"><g transform="skewX(-12) translate(14 0)">
+  <rect x="22" y="16" width="100" height="15" rx="4" fill="url(#v-s1)"/>
+  <rect x="2" y="37" width="120" height="15" rx="4" fill="url(#v-s2)"/>
+  <rect x="34" y="58" width="88" height="15" rx="4" fill="url(#v-s3)"/>
+  </g>
+  <path d="M124 76 V26 Q124 17 133 16 L158 15 Q165 15 168 21 L176 39 H197 Q207 40 209 49 L210 62 V76 Z" fill="url(#v-cab1)"/>
+  <path d="M157 21 Q162 21 164 25 L170 38 H154 V24 Q154 21 157 21 Z" fill="url(#v-glass)"/>
+  <path d="M150 44 V70" stroke="#0c1f3f" stroke-opacity=".35" stroke-width="1.6"/>
+  <rect x="203" y="47" width="7" height="4.5" rx="2" fill="#ffbf1f"/>
+  <circle cx="139" cy="78" r="11" fill="#0c1f3f"/>
+  <circle cx="139" cy="78" r="8" fill="#3d5384"/>
+  <circle cx="139" cy="78" r="2.8" fill="#0c1f3f"/>
+  <circle cx="162" cy="78" r="11" fill="#0c1f3f"/>
+  <circle cx="162" cy="78" r="8" fill="#3d5384"/>
+  <circle cx="162" cy="78" r="2.8" fill="#0c1f3f"/>
+  <circle cx="195" cy="78" r="11" fill="#0c1f3f"/>
+  <circle cx="195" cy="78" r="8" fill="#3d5384"/>
+  <circle cx="195" cy="78" r="2.8" fill="#0c1f3f"/></g>
 </svg>

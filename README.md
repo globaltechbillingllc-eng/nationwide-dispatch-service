@@ -22,7 +22,7 @@ Static marketing site for Nationwide Dispatch Services LLC, a truck dispatching 
 - `logo-stacked.svg` / `logo-stacked.png` — stacked version
 - `logo-mark.svg` / `logo-mark-512.png` — icon only (social profile pictures, app icons)
 
-The mark is a semi-truck on a highway-sign plate with a yellow road line. Colors: sign green `#0b5e3b`, safety yellow `#f5c518`, ink `#1d2024`. Wordmark set in Inter Display Black and Inter SemiBold, converted to outlines.
+The mark is a semi-truck whose trailer becomes orange, teal and blue speed stripes. Colors: navy `#0c1f3f`, blue `#1663e6`, teal `#10b3a3`, orange `#ff7a1a`, amber `#ffbf1f`. Wordmark set in Inter Display Black Italic and Inter Bold, converted to outlines. The site uses Inter for text.
 
 Root also has `favicon.svg`, `favicon-32.png`, `apple-touch-icon.png` and `og-image.png` (the preview image shown when the site is shared on social media or in texts).
 
